@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @aguilarrjorge
+![me](https://i.ibb.co/0Jn3fRs/JORGE.jpg)
+
+
+
+
+- 👋 Hola, Mi nombre es Jorge Aguilar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
