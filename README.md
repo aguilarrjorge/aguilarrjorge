@@ -1,7 +1,3 @@
-![me](https://i.ibb.co/0Jn3fRs/JORGE.jpg)
-
-
-
 
 - 👋 Hola, Mi nombre es Jorge Aguilar
 - 👀 I’m interested in ...
